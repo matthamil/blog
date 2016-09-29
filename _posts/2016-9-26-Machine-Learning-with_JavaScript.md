@@ -108,4 +108,6 @@ Anecdotally, I have found that the resulting neural network accurately predicts 
 
 Users can use the neural networks in the application to build smarter Spotify playlists. They can even test out a friend's playlist and send them song recommendations through the application.
 
+Now, I need to get my friend to create an account in the application so I can show him that the Eagles don't belong in our funk playlist.
+
 For more about the project, check out the [repo on Github](https://github.com/matthamil/Brainify).
