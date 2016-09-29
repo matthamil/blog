@@ -103,3 +103,9 @@ Spotify allows users to retrieve a list of [song recommendations from a genre](h
 I found that the neural network trains the best when the ratio of positive to negative samples is close to 1:1, so the application takes a random sampling of size _n_, where _n_ is equal to the number of songs in the playlist, of songs from every other genre I have in my database. This corrected the imbalance between the positive and negative sample sizes.
 
 <img src="{{ site.baseurl }}/images/DataSampleCorrect.svg" alt="Brainify Neural Network" style="width:60%;display:block;margin:0 auto">
+
+Anecdotally, I have found that the resulting neural network accurately predicts whether a song should fit in a playlist. I have yet to test the neural network with a large sample of songs to determine the network's real accuracy.
+
+Users can use the neural networks in the application to build smarter Spotify playlists. They can even test out a friend's playlist and send them song recommendations through the application.
+
+For more about the project, check out the [repo on Github](https://github.com/matthamil/Brainify).
