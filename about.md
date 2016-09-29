@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a student at Nashville Software School studying JavaScript and C#. I love reading about and studying machine learning and UX in my free time.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have an unhealthy obsession for tea.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@_matthamil](https://www.twitter.com/_matthamil)
+[LinkedIn](https://www.linkedin.com/in/matthamil)
