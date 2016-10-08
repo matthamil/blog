@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-[github.com/matthamil](https://www.github.com/matthamil)
-![My Github Contributions](http://ghchart.rshah.org/4183C4/matthamil)
-
 I'm a student at Nashville Software School studying JavaScript and C#. I love reading about and studying machine learning and UX in my free time.
 
 I have an unhealthy obsession for tea.
+
+[Github](https://www.github.com/matthamil)
+![My Github Contributions](http://ghchart.rshah.org/4183C4/matthamil)
 
 ### Contact me
 
