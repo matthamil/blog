@@ -25,7 +25,7 @@ One out of four contributions for Hacktoberfest accomplished.
 
 It was a crazy feeling. Some code that I had written is now in a complete stranger's project. I wondered how it felt being on the other end of an open-source contribution. I went through an old project of mine and noticed that it didn't have a completed README. I opened an issue, tagged it with the "Hacktoberfest" tag. Within an hour and a half, I had a completed PR from someone in another country.
 
-> <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wow, posted an issue with the <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash">#Hacktoberfest</a> tag, and less than two hours later I have a PR from a complete stranger. <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a></p>&mdash; Matt Hamil (@_matthamil) <a href="https://twitter.com/_matthamil/status/783510881518968833">October 5, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote style="display:block;margin:0 auto;" class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wow, posted an issue with the <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash">#Hacktoberfest</a> tag, and less than two hours later I have a PR from a complete stranger. <a href="https://twitter.com/hashtag/opensource?src=hash">#opensource</a></p>&mdash; Matt Hamil (@_matthamil) <a href="https://twitter.com/_matthamil/status/783510881518968833">October 5, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The next day, I woke up to another PR submitted from the same person adding a feature that I wasn't even mentioned in the original issue.
 
