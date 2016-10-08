@@ -110,6 +110,9 @@ Users can use the neural networks in the application to build smarter Spotify pl
 
 Now, I need to get my friend to create an account in the application so I can show him that the Eagles don't belong in our funk playlist.
 
+Watch the demo:
+<iframe style="display:block;margin:0 auto" width="560" height="315" src="https://www.youtube.com/embed/doYjvcNLA2Y" frameborder="0" allowfullscreen></iframe>
+
 For more about the project, check out the [repo on Github](https://github.com/matthamil/Brainify).
 
 For a great visual introduction to Machine Learning, check out this post by [R2D3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
