@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taste of Open-source
+title: Open-source for New Developers
 ---
 
 I was scrolling through Twitter the other day and saw a post about an event going on called "Hacktoberfest." [Hacktoberfest](https://hacktoberfest.digitalocean.com/) rewards Github users who contribute to open-source projects during the month of October. The thought of making a contribution to an open-source project as a new developer sounded daunting, if not impossible.
